@@ -1,6 +1,6 @@
 +++
 author = "4ckha9"
-title = "経歴"
+title = "近況"
 date = "2025-11-29"
 description = "最近のできごと"
 tags = [
